@@ -40,6 +40,7 @@
     {"id":{"name":"tela_principal","path":"rooms/tela_principal/tela_principal.yy",},},
     {"id":{"name":"spr_bancada","path":"sprites/spr_bancada/spr_bancada.yy",},},
     {"id":{"name":"spr_onca","path":"sprites/spr_onca/spr_onca.yy",},},
+    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
