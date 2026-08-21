@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mesa",
+  "%Name":"obj_bateria",
   "eventList":[],
   "managed":true,
-  "name":"obj_mesa",
+  "name":"obj_bateria",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bancada_de_cima",
-    "path":"sprites/spr_bancada_de_cima/spr_bancada_de_cima.yy",
+    "name":"spr_bateria",
+    "path":"sprites/spr_bateria/spr_bateria.yy",
   },
   "spriteMaskId":null,
   "visible":true,

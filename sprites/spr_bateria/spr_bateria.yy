@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_bancada_de_cima",
-  "bboxMode":2,
-  "bbox_bottom":1259,
-  "bbox_left":-59,
-  "bbox_right":2169,
-  "bbox_top":790,
+  "%Name":"spr_bateria",
+  "bboxMode":0,
+  "bbox_bottom":1793,
+  "bbox_left":121,
+  "bbox_right":1077,
+  "bbox_top":787,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0300491d-f3eb-4f59-a08f-27009e6980bd","name":"0300491d-f3eb-4f59-a08f-27009e6980bd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1260,
+  "height":2400,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"27022ce9-d850-4c46-85d8-020513d251fc","blendMode":0,"displayName":"default","isLocked":false,"name":"27022ce9-d850-4c46-85d8-020513d251fc","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"35fac05a-37a4-49aa-9f5a-dc6d423e1d12","blendMode":0,"displayName":"default","isLocked":false,"name":"35fac05a-37a4-49aa-9f5a-dc6d423e1d12","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_bancada_de_cima",
+  "name":"spr_bateria",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_bancada_de_cima",
+    "%Name":"spr_bateria",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_bancada_de_cima",
+    "name":"spr_bateria",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","path":"sprites/spr_bancada_de_cima/spr_bancada_de_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"882f41c3-3d7a-4245-9a78-1164ddd9ff0a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0300491d-f3eb-4f59-a08f-27009e6980bd","path":"sprites/spr_bateria/spr_bateria.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"11d143a6-41fd-4629-88c4-7c7a2edd29d7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2170,
+  "width":1200,
 }

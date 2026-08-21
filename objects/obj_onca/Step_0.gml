@@ -6,5 +6,7 @@ if mouse_check_button_pressed(mb_left) && global.dialogo == false && position_me
 	var _npc = instance_nearest(x, y, obj_par_npcs);
 	var _dialogo = instance_create_layer(x, y, "Dialogo", obj_dialogo);
 	_dialogo.npc_nome = _npc.nome;
+} else {
+	instance_destroy(global.dialogo);
 }
 #endregion

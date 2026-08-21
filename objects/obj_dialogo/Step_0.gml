@@ -13,5 +13,6 @@ if keyboard_check_pressed(vk_space) {
 	} else {
 		global.dialogo = false;
 		instance_destroy();
+		room_goto(gambiarra_1);
 	}
 }
