@@ -7,11 +7,11 @@ if inicializar == false {
 }
 
 
-/*if mouse_check_button_pressed(mb_left) {
+if mouse_check_button_pressed(mb_left) {
 	if pagina < array_length(texto) - 1 {
 		pagina++;	
 	} else {
 		global.dialogo = false;
 		instance_destroy();
 	}
-}*/
+}
