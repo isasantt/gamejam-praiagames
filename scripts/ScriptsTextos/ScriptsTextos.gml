@@ -3,9 +3,9 @@
 function src_textos(){
 	switch npc_nome {
 		case "onça-pintuda":
-			texto[0] = "Amei arraso";
-			texto[1] = "Mais o menos";
-			texto[2] = "Odiei";
+			texto[0] = "Oi bo dia";
+			texto[1] = "Cunserta meu cerula";
+			texto[2] = "Thank you";
 		break;
 	}
 }

@@ -43,6 +43,7 @@
     {"id":{"name":"tela_principal","path":"rooms/tela_principal/tela_principal.yy",},},
     {"id":{"name":"ScriptsTextos","path":"scripts/ScriptsTextos/ScriptsTextos.yy",},},
     {"id":{"name":"spr_bancada_de_cima","path":"sprites/spr_bancada_de_cima/spr_bancada_de_cima.yy",},},
+    {"id":{"name":"spr_caixa_dialogo","path":"sprites/spr_caixa_dialogo/spr_caixa_dialogo.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_onca","path":"sprites/spr_onca/spr_onca.yy",},},
   ],
