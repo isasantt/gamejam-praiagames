@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bancada",
-    "path":"sprites/spr_bancada/spr_bancada.yy",
+    "name":"spr_bancada_de_cima",
+    "path":"sprites/spr_bancada_de_cima/spr_bancada_de_cima.yy",
   },
   "spriteMaskId":null,
   "visible":true,
