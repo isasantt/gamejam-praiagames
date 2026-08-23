@@ -4,7 +4,7 @@ function src_textos(){
 	switch npc_nome {
 		case "onça-pintuda":
 			if global.celular_consertado {
-				texto[3] = "Ai finalmente meu eyephone voltou a funcionar obgda";
+				texto[0] = "Ai finalmente meu eyephone voltou a funcionar obgda";
 			} else {
 				texto[0] = "Oi bo dia";
 				texto[1] = "Cunserta meu cerula";
