@@ -3,9 +3,13 @@
 function src_textos(){
 	switch npc_nome {
 		case "onça-pintuda":
-			texto[0] = "Oi bo dia";
-			texto[1] = "Cunserta meu cerula";
-			texto[2] = "Thank you";
+			if global.celular_consertado {
+				texto[3] = "Ai finalmente meu eyephone voltou a funcionar obgda";
+			} else {
+				texto[0] = "Oi bo dia";
+				texto[1] = "Cunserta meu cerula";
+				texto[2] = "Thank you";
+			}
 		break;
 	}
 }
