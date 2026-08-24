@@ -12,3 +12,7 @@ global.celular_consertado = false;
 
 global.pilha_slots = [[749, 486], [749, 532], [749, 578], [749, 624]];
 global.slot_ocupado = [false, false, false, false];
+
+global.benjamin_slots = [[895, 500],[1025, 500]];
+global.benjamin_ocupado = [false, false];
+global.benjamin_colocados = 0;
