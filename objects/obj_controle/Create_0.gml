@@ -10,7 +10,8 @@ global.bateria_removida = false;
 global.pilhas_colocadas = 0;
 global.celular_consertado = false;
 global.carregador_consertado = false;
-
+global.dialogoOncaTocou = false;
+global.dialogoLoboTocou = false;
 global.pilha_slots = [[749, 486], [749, 532], [749, 578], [749, 624]];
 global.slot_ocupado = [false, false, false, false];
 
