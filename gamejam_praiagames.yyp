@@ -37,6 +37,7 @@
   },
   "name":"gamejam_praiagames",
   "resources":[
+    {"id":{"name":"font_dialogo","path":"fonts/font_dialogo/font_dialogo.yy",},},
     {"id":{"name":"obj_adaptador_g","path":"objects/obj_adaptador_g/obj_adaptador_g.yy",},},
     {"id":{"name":"obj_adaptador_p_1","path":"objects/obj_adaptador_p_1/obj_adaptador_p_1.yy",},},
     {"id":{"name":"obj_adaptador_p_2","path":"objects/obj_adaptador_p_2/obj_adaptador_p_2.yy",},},
