@@ -15,7 +15,7 @@ ao_soltar = function() {
 			y = ystart;
             global.tampa_removida = false;
 			var _fade = instance_find(obj_fade, 0);
-			_fade.ir_para_sala(tela_lobo);
+			_fade.ir_para_sala(tela_onca);
 			global.celular_consertado = true;
         }
     }

@@ -4,6 +4,6 @@
 npc_nome = "";
 texto[0] = "";
 pagina = 0;
-room_atual = room;
+destino = noone;
 
 inicializar = false;

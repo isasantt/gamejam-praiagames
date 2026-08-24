@@ -5,16 +5,19 @@ function src_textos(){
 		case "onça-pintuda":
 			if global.celular_consertado {
 				texto[0] = "Ai finalmente meu eyephone voltou a funcionar obgda";
+				destino = tela_lobo;
 			} else {
 				texto[0] = "Oi bo dia";
 				texto[1] = "Cunserta meu cerula";
 				texto[2] = "Thank you";
+				destino = gambiarra_1;
 			}
 		break;
 		case "lobo-guara":
 			texto[0] = "Eai meu consagrado";
 			texto[1] = "O carregador que eu comprei tem 3 pinos mas minha tomada tem só 2";
 			texto[2] = "Consegue me ajudar?";
+			destino = gambiarra_2;
 		break;
 	}
 }
