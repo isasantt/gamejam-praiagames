@@ -9,3 +9,8 @@ ir_para_sala = function(_room, _delay = 0) {
     delay_espera = _delay;
     estado = "saindo";
 };
+
+application_surface_draw_enable(false);
+
+cozy_intensidade = 0.4; //aqui voce regula a intensidade do shader
+cozy_vinheta = 0.2; //aqui é pra regular a da vinheta

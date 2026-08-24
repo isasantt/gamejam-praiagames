@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4d735fc6-a2f4-491b-958d-978eed496552","name":"4d735fc6-a2f4-491b-958d-978eed496552","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1260,
+  "height":4320,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"27022ce9-d850-4c46-85d8-020513d251fc","blendMode":0,"displayName":"default","isLocked":false,"name":"27022ce9-d850-4c46-85d8-020513d251fc","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"1c02831d-ee83-4be3-bb53-c2b05c0f5429","blendMode":0,"displayName":"default","isLocked":false,"name":"1c02831d-ee83-4be3-bb53-c2b05c0f5429","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_mesa_de_cima",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27cc48b1-dfc6-41a1-89af-01dac239f5e0","path":"sprites/spr_mesa_de_cima/spr_mesa_de_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"882f41c3-3d7a-4245-9a78-1164ddd9ff0a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d735fc6-a2f4-491b-958d-978eed496552","path":"sprites/spr_mesa_de_cima/spr_mesa_de_cima.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"9db7397c-1bba-4dae-91f2-8464e0a42210","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":3840,
+    "yorigin":2160,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2170,
+  "width":7680,
 }

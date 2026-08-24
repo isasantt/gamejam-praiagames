@@ -57,6 +57,7 @@
     {"id":{"name":"tela_lobo","path":"rooms/tela_lobo/tela_lobo.yy",},},
     {"id":{"name":"tela_onca","path":"rooms/tela_onca/tela_onca.yy",},},
     {"id":{"name":"ScriptsTextos","path":"scripts/ScriptsTextos/ScriptsTextos.yy",},},
+    {"id":{"name":"shd_cozy","path":"shaders/shd_cozy/shd_cozy.yy",},},
     {"id":{"name":"spr_adaptador_g","path":"sprites/spr_adaptador_g/spr_adaptador_g.yy",},},
     {"id":{"name":"spr_adaptador_p","path":"sprites/spr_adaptador_p/spr_adaptador_p.yy",},},
     {"id":{"name":"spr_bateria","path":"sprites/spr_bateria/spr_bateria.yy",},},
