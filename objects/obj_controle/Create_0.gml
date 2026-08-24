@@ -16,3 +16,5 @@ global.slot_ocupado = [false, false, false, false];
 global.benjamin_slots = [[895, 500],[1025, 500]];
 global.benjamin_ocupado = [false, false];
 global.benjamin_colocados = 0;
+
+global.proxima_depth_pilha = -10;

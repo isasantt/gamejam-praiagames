@@ -27,7 +27,9 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"Comfortaa-VariableFont_wght.ttf","CopyToMask":-1,"filePath":"datafiles","name":"Comfortaa-VariableFont_wght.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -73,7 +75,6 @@
     {"id":{"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},},
     {"id":{"name":"spr_onca","path":"sprites/spr_onca/spr_onca.yy",},},
     {"id":{"name":"spr_pilha","path":"sprites/spr_pilha/spr_pilha.yy",},},
-    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
