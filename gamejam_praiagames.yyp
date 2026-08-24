@@ -60,6 +60,7 @@
     {"id":{"name":"gambiarra_2","path":"rooms/gambiarra_2/gambiarra_2.yy",},},
     {"id":{"name":"tela_lobo","path":"rooms/tela_lobo/tela_lobo.yy",},},
     {"id":{"name":"tela_onca","path":"rooms/tela_onca/tela_onca.yy",},},
+    {"id":{"name":"ScriptMusica","path":"scripts/ScriptMusica/ScriptMusica.yy",},},
     {"id":{"name":"ScriptsTextos","path":"scripts/ScriptsTextos/ScriptsTextos.yy",},},
     {"id":{"name":"shd_cozy","path":"shaders/shd_cozy/shd_cozy.yy",},},
     {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},},
