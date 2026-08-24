@@ -1,8 +1,10 @@
 event_inherited();
 colocada = false;
+adaptador1 = instance_id_get(inst_adaptador_p_1);
 
 pode_arrastar = function() {
-    return !colocada;
+	
+    return !colocada && !place_meeting(x, y , obj_adaptador_g);
 };
 
 ao_soltar = function() {

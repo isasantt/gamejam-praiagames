@@ -2,7 +2,7 @@ event_inherited();
 colocada = false;
 
 pode_arrastar = function() {
-    return global.bateria_removida && !colocada;
+    return global.bateria_removida && !colocada && !place_meeting(x, y , obj_celular_tampa);
 };
 
 ao_soltar = function() {

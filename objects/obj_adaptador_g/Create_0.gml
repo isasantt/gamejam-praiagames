@@ -3,7 +3,7 @@ x_predestinado = 960
 y_predestinado = 391
 colocada = false;
 pode_arrastar = function() {
-    return !colocada
+    return !colocada;
 };
 
 ao_soltar = function() {

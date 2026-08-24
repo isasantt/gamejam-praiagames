@@ -36,7 +36,8 @@
   "name":"gamejam_praiagames",
   "resources":[
     {"id":{"name":"obj_adaptador_g","path":"objects/obj_adaptador_g/obj_adaptador_g.yy",},},
-    {"id":{"name":"obj_adaptador_p","path":"objects/obj_adaptador_p/obj_adaptador_p.yy",},},
+    {"id":{"name":"obj_adaptador_p_1","path":"objects/obj_adaptador_p_1/obj_adaptador_p_1.yy",},},
+    {"id":{"name":"obj_adaptador_p_2","path":"objects/obj_adaptador_p_2/obj_adaptador_p_2.yy",},},
     {"id":{"name":"obj_arrastavel","path":"objects/obj_arrastavel/obj_arrastavel.yy",},},
     {"id":{"name":"obj_bateria","path":"objects/obj_bateria/obj_bateria.yy",},},
     {"id":{"name":"obj_carregador","path":"objects/obj_carregador/obj_carregador.yy",},},
@@ -72,6 +73,7 @@
     {"id":{"name":"spr_mesa","path":"sprites/spr_mesa/spr_mesa.yy",},},
     {"id":{"name":"spr_onca","path":"sprites/spr_onca/spr_onca.yy",},},
     {"id":{"name":"spr_pilha","path":"sprites/spr_pilha/spr_pilha.yy",},},
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

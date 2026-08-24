@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_adaptador_p",
+  "%Name":"obj_adaptador_p_2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_adaptador_p",
+  "name":"obj_adaptador_p_2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
