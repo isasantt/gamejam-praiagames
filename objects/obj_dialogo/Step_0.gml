@@ -14,5 +14,10 @@ if keyboard_check_pressed(vk_space) {
 		global.dialogo = false;
 		instance_destroy();
 		room_goto(gambiarra_1);
+		if room_atual == tela_onca {
+			room_goto(gambiarra_1)	
+		} else {
+			room_goto(gambiarra_2)	
+		}
 	}
 }

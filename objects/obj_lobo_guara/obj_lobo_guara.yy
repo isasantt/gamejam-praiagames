@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lobo",
+  "%Name":"obj_lobo_guara",
   "eventList":[],
   "managed":true,
-  "name":"obj_lobo",
+  "name":"obj_lobo_guara",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lobo",
-    "path":"sprites/spr_lobo/spr_lobo.yy",
+    "name":"spr_lobo_guara",
+    "path":"sprites/spr_lobo_guara/spr_lobo_guara.yy",
   },
   "spriteMaskId":null,
   "visible":true,

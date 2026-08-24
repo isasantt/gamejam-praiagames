@@ -14,7 +14,7 @@ ao_soltar = function() {
             x = xstart; 
 			y = ystart;
             global.tampa_removida = false;
-			room_goto(tela_principal);
+			room_goto(tela_onca);
 			global.celular_consertado = true;
         }
     }
