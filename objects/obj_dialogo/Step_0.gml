@@ -13,11 +13,11 @@ if keyboard_check_pressed(vk_space) {
 	} else {
 		global.dialogo = false;
 		instance_destroy();
-		room_goto(gambiarra_1);
+		var _fade = instance_find(obj_fade, 0);
 		if room_atual == tela_onca {
-			room_goto(gambiarra_1)	
+			_fade.ir_para_sala(gambiarra_1);
 		} else {
-			room_goto(gambiarra_2)	
+			_fade.ir_para_sala(gambiarra_2);
 		}
 	}
 }
