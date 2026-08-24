@@ -4,6 +4,7 @@ function src_textos(){
 	switch npc_nome {
 		case "onça-pintuda":
 			if global.celular_consertado {
+				obj_onca.image_index = 1;
 				texto[0] = "Ai finalmente meu eyephone voltou a funcionar obgda";
 				global.dialogoOncaTocou = true;
 				destino = tela_lobo;
@@ -17,7 +18,9 @@ function src_textos(){
 		break;
 		case "lobo-guara":
 			if global.carregador_consertado {
+				obj_lobo_guara.image_index = 1;
 				texto[0] = "Misericórdia senhor";
+				destino = tela_final
 				global.dialogoLoboTocou = true;
 			} else {
 				texto[0] = "Eai meu consagrado";

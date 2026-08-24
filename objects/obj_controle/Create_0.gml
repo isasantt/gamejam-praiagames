@@ -20,3 +20,4 @@ global.benjamin_ocupado = [false, false];
 global.benjamin_colocados = 0;
 
 global.proxima_depth_pilha = -10;
+

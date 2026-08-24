@@ -21,3 +21,5 @@ if keyboard_check_pressed(vk_space) {
 		}
 	}
 }
+
+pulso += 0.05

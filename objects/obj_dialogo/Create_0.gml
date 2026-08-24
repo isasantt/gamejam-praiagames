@@ -7,3 +7,5 @@ pagina = 0;
 destino = noone;
 
 inicializar = false;
+
+pulso = 0;
