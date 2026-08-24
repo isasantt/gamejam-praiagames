@@ -8,21 +8,24 @@ ao_pegar = function() {
 
 pode_arrastar = function() {
     if colocada || !global.bateria_removida return false;
-	
-	var _lista = ds_list_create();
-	var _num = instance_place_list(x, y, obj_pilha, _lista, false);
-	var _bloqueada = false;
-	
-	for (var i = 0; i < _num; i++) {
-		var _outra = _lista[| i];
-		if _outra != id && _outra.depth < depth {
-			_bloqueada = true;
-			break;
-		}
-	}
-	
-	ds_list_destroy(_lista);
-	return !_bloqueada;
+    
+    if place_meeting(x, y, obj_celular_tampa) return false;
+    
+    var _lista = ds_list_create();
+    var _num = instance_place_list(x, y, obj_pilha, _lista, false);
+    var _bloqueada = false;
+    
+    for (var i = 0; i < _num; i++) {
+        var _outra = _lista[| i];
+        
+        if _outra != id && _outra.depth < depth {
+            _bloqueada = true;
+            break;
+        }
+    }
+    
+    ds_list_destroy(_lista);
+    return !_bloqueada;
 };
 
 ao_soltar = function() {
