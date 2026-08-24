@@ -25,3 +25,5 @@ function src_textos(){
 		break;
 	}
 }
+
+audio_play_sound(snd_musica, 10, false);
