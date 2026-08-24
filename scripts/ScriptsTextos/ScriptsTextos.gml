@@ -11,5 +11,10 @@ function src_textos(){
 				texto[2] = "Thank you";
 			}
 		break;
+		case "lobo-guara":
+			texto[0] = "Eai meu consagrado";
+			texto[1] = "O carregador que eu comprei tem 3 pinos mas minha tomada tem só 2";
+			texto[2] = "Consegue me ajudar?";
+		break;
 	}
 }
