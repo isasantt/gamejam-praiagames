@@ -14,6 +14,7 @@ ao_soltar = function() {
 			var _fade = instance_find(obj_fade, 0);
 			_fade.ir_para_sala(tela_lobo);
 			colocada = true;
+			global.dialogoLoboTocou = false;
         }
 };
 
