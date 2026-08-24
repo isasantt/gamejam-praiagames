@@ -10,6 +10,7 @@ ao_soltar = function() {
         if global.benjamin_colocados = 2 && point_distance(x, y, x_predestinado, y_predestinado) < 50 {
             x = x_predestinado; 
 			y = y_predestinado;
+			global.carregador_consertado = true;
 			var _fade = instance_find(obj_fade, 0);
 			_fade.ir_para_sala(tela_lobo);
 			colocada = true;

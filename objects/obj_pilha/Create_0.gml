@@ -54,5 +54,6 @@ ao_soltar = function() {
 
     rot_alvo = 0;
     image_angle = 0;
+	depth = -1;
 	}
 };

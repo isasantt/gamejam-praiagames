@@ -14,10 +14,14 @@ function src_textos(){
 			}
 		break;
 		case "lobo-guara":
-			texto[0] = "Eai meu consagrado";
-			texto[1] = "O carregador que eu comprei tem 3 pinos mas minha tomada tem só 2";
-			texto[2] = "Consegue me ajudar?";
-			destino = gambiarra_2;
+			if global.carregador_consertado {
+				texto[0] = "Misericórdia senhor";
+			} else {
+				texto[0] = "Eai meu consagrado";
+				texto[1] = "O carregador que eu comprei tem 3 pinos mas minha tomada tem só 2";
+				texto[2] = "Consegue me ajudar?";
+				destino = gambiarra_2;
+			}
 		break;
 	}
 }
